@@ -40,7 +40,7 @@ public class MainActivity extends AppCompatActivity {
     }
 
     /**
-     * Increase the score for Team A by 1 point.
+     * Increase the score for Team A by 1 point
      */
     public void addOneForTeamA(View v) {
         scoreTeamA = scoreTeamA + 1;
